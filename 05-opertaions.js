@@ -18,3 +18,6 @@ console.log(2**4)
 console.log(2%4)
 
 
+// its check value and datatypes === 
+// its check only value == 
+
